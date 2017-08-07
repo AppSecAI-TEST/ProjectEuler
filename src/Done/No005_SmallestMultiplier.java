@@ -1,6 +1,6 @@
 package Done;
 
-public class SmallestMultiplier {
+public class No005_SmallestMultiplier {
 
 
 		

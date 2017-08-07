@@ -1,6 +1,6 @@
 package Done;
 
-public class LargestPalindomeProduct {
+public class No004_LargestPalindomeProduct {
 	static Integer number=0;
 	
 

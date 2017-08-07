@@ -1,6 +1,6 @@
 package Done;
 
-public class SpecialPythagorianTriplett {
+public class No009_SpecialPythagorianTriplett {
 
 
 	public static void Calculate(){

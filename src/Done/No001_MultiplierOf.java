@@ -1,13 +1,13 @@
 package Done;
 
-public class MultiplierOf {
+public class No001_MultiplierOf {
 	private static int sum;
 	private static int maxNumber=100;
 	private static int minNumber=0;
 	private static int multiplyer1=3;
 	private static int multiplyer2=5;
 	
-	public MultiplierOf( int max, int min, int m1, int m2) {
+	public No001_MultiplierOf( int max, int min, int m1, int m2) {
 		
 
 		maxNumber = max;

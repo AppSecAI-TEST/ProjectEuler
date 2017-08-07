@@ -1,7 +1,7 @@
 package Done;
 import java.util.ArrayList;
 
-public class LargestPrimeFactor {
+public class No003_LargestPrimeFactor {
 	
 	private static ArrayList<Long> primeFactors=new ArrayList<>();
 	static Long n=600851475143L;

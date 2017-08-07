@@ -1,6 +1,6 @@
 package Done;
 
-public class SumSquareDifference {
+public class No006_SumSquareDifference {
 	
 	
 	public static void Calculate(int number)  {

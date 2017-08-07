@@ -1,7 +1,7 @@
 package Done;
 import java.util.ArrayList;
 
-public class Fibonaccis {
+public class No002_Fibonaccis {
 
 	private static int maxNumber=4000000;
 	private static int sumOfEven=0;

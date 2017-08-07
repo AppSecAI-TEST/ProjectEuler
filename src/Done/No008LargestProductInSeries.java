@@ -2,7 +2,7 @@ package Done;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class LargestProduct {
+public class No008LargestProductInSeries {
 
 	public static void Calculate(int n){
 		ArrayList<Integer> productsList= new ArrayList<>();
